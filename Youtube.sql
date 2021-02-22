@@ -1,0 +1,1 @@
+SELECT * FROM youtube.`usuario_likes/dislikes_video`;
